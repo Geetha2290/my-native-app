@@ -1,0 +1,1 @@
+export const NOTES_CHANGE = 'NOTES_CHANGE'
